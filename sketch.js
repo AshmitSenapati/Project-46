@@ -35,14 +35,14 @@ var security = "ON"
 var security2 = "ON"
 
 function preload(){
-  bookImage = loadImage("Images/Book_ccexpress.png")
-  jacketImage = loadImage("Images/Jacket_ccexpress.png")
-  penDriveImage = loadImage("Images/PenDrive_ccexpress.png")
-  plateImage = loadImage("Images/Plate_ccexpress.png")
-  samImage = loadImage("Images/depositphotos_51100923-stock-illustration-man-face_ccexpress_ccexpress.png")
-  teaCupImage = loadImage("Images/TeaCup_ccexpress.png")
-  toyImage = loadImage("Images/Toy_ccexpress.png")
-  watchImage = loadImage("Images/Watch_ccexpress.png")
+  bookImage = loadImage("Book_ccexpress.png")
+  jacketImage = loadImage("Jacket_ccexpress.png")
+  penDriveImage = loadImage("PenDrive_ccexpress.png")
+  plateImage = loadImage("Plate_ccexpress.png")
+  samImage = loadImage("depositphotos_51100923-stock-illustration-man-face_ccexpress_ccexpress.png")
+  teaCupImage = loadImage("TeaCup_ccexpress.png")
+  toyImage = loadImage("Toy_ccexpress.png")
+  watchImage = loadImage("Watch_ccexpress.png")
 }
 
 function setup() {
