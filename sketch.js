@@ -398,5 +398,5 @@ else if(gameState === 2){
 
   
 
-  fill("Red"); textSize(30); text(World.mouseX + "," + World.mouseY, displayWidth/2, displayHeight/2);
+  //fill("Red"); textSize(30); text(World.mouseX + "," + World.mouseY, displayWidth/2, displayHeight/2);
 }
